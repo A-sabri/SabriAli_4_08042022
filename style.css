@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+img.img-responsive.portfolio-thumb {
+    width: 100%;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
