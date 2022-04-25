@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -20,6 +25,10 @@ button {
 a:hover {
     text-decoration: none;
     cursor: pointer;
+}
+
+.black{
+    color: #000000!important;
 }
 
 #page-loading-blocs-notifaction {
@@ -681,7 +690,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -783,7 +792,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #712A09;
     color: #FFFFFF!important;
 }
 
