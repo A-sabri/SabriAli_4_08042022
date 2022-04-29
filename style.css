@@ -291,6 +291,15 @@ a:hover {
     padding-left: 0;
 }
 
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.col-sm-6 p{
+   margin: 20px 0; 
+}
+
 #bloc-1-hero h1 {
     font-size: 32px;
 }
